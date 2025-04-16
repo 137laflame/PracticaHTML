@@ -11,6 +11,7 @@ bodyh1{
 
 .contenedor{
     display: flex;
+    margin-left: -200px;
 }
 
 .nombre{
